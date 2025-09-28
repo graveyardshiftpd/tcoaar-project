@@ -34240,6 +34240,9 @@
         "cltistunlock": [ 
         	"You unlock the door to the cultist's apartment."
         ],
+        "yorarpunlock": [ 
+        	"You unlock the door to your apartment."
+        ],
         "aptmntnote": [ 
         	"\"What's this note say?\""
         ],
