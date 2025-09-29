@@ -20454,7 +20454,7 @@
 	"\"Odd thing to point out, but I can't rule it out.\""
         ],
         "Balcony_18": [ 
-	"\"Right..\""
+	"\"Right...\""
         ],
         "Balcony_19": [ 
 	"\".............\""
@@ -21317,7 +21317,7 @@
         "ReneeCooking_06": ["Akin to burning pork being","drowned out in spices."],
         "ReneeCooking_07": ["\"...................\""],
         "ReneeCooking_08": ["\"*Sigh*...\""],
-        "ReneeCooking_09": ["\"(Its just protein... its","just food.... nothing more.)\""],
+        "ReneeCooking_09": ["\"(It's just protein... its","just food.... nothing more.)\""],
         "ReneeCooking_10": ["\"\\fs[26](Plus, i'm not in the mood of starving to death, and i certainly won't." 
                                 ,"let my son be stupid enough to die over some bullshit moral excuse.)\\fs[28]\""],
         "ReneeCooking_11": ["\"(He is so young, and still has a lot to","live for... Hell, I've got a lot to live for!)\""],
@@ -26843,7 +26843,7 @@
         ],
 	"tcoaarep2_0738": [ 
         	"\"Let it be known that Andrew Graves will once again invigorate ",
-	"Professor's Shittler's Class with his unmatched literary ethos!\""
+	"Professor Shittler's Class with his unmatched literary ethos!\""
         ],
 	"tcoaarep2_0739": [ 
         	"\"Promise..?\""
@@ -30277,7 +30277,7 @@
 	"tcoaarep2_1784":           ["\"Could be anything, honestly.\""],
 	"tcoaarep2_1785":           ["\"Maybe Dad got a promotion or a better-paying job?\""],
 	"tcoaarep2_1786":           ["\"Would explain where they got the money for this place.\""],
-	"tcoaarep2_1787":           ["\"They moved here months ago, though. This letter was posted this week.\""],
+	"tcoaarep2_1787":           ["\"They moved here months ago, though.","This letter was posted this week.\""],
 	"tcoaarep2_1788":           ["\"Maybe they made a downpayment on credit...\""],
 	"tcoaarep2_1789":           ["\"I always wanted one of these...\""],
 	"tcoaarep2_1790":           ["\"How is this fair?? He cheats and","then gets to have the perfect home.\""],
@@ -30773,7 +30773,7 @@
 	"tcoaarep2_2272":           ["It would be surreal and funny if it weren't so depressing."],
 	"tcoaarep2_2273":           ["\".....................\""],
 	"tcoaarep2_2274":           ["\"Gee... You guys must have been pretty worried","when you heard the apartment burned down...\""],
-	"tcoaarep2_2275":           ["\"A-appartment? W-what apartment??\""],
+	"tcoaarep2_2275":           ["\"A-apartment? W-what apartment??\""],
 	"tcoaarep2_2276":           ["\"........You know, the one that was locked","down? Where Mom and I lived??.....\""],
 	"tcoaarep2_2277":           ["\"Where\\fi you\\fr\\c[1] used to live..?\""],
 	"tcoaarep2_2278":           ["\"Oh, that apartment! My god, son! I’m","so glad you got out alright!!\""],
@@ -32135,7 +32135,7 @@
 	"tcoaarep2_3607":           ["\"I knew how you’d react. You--...you’d never let me go!.\""],
 	"tcoaarep2_3608":           ["\"Damn right I wouldn’t have!! You belonged to me!!\""],
 	"tcoaarep2_3609":           ["\"S-see!!! SEE!?!! I was never a","person to you! Just a possession!!\""],
-	"tcoaarep2_3610":           ["\"We belonged to each other, you spineless bastard!!.\""],
+	"tcoaarep2_3610":           ["\"We belonged to each other, you spineless bastard!!\""],
 	"tcoaarep2_3611":           ["\"I gave you my heart, I gave you my mind,","I gave you my\\fi body\\fr\\c[6]. I gave you\\fi everything\\fr\\c[6].\""],
 	"tcoaarep2_3612":           ["\"Didn’t that count for fucking anything??\""],
 	"tcoaarep2_3613":           ["\"...................\""],
@@ -32650,8 +32650,8 @@
 	"tcoaarep2_4114":           ["\"My, you’ve clearly thought","this through, haven’t you?\""],
 	"tcoaarep2_4115":           ["\"(You have no idea.)\""],
 	"tcoaarep2_4116":           ["\"Nope, just a fringe benefit of an english major.\""],
-	"tcoaarep2_4117":           ["\"Ha, it’ll take more than that to convince me that was money well spent.\""],
-	"tcoaarep2_4118":           ["\"Anyway, you get them set up, I’ll go find you some supplies.\""],
+	"tcoaarep2_4117":           ["\"Ha, it’ll take more than that to","convince me that was money well spent.\""],
+	"tcoaarep2_4118":           ["\"Anyway, you get them set up,","I’ll go find you some supplies.\""],
 	"tcoaarep2_4119":           ["\"Of course.\""],
 	"tcoaarep2_4120":           ["You are Renee!"],
 	"tcoaarep2_4121":           ["Hop to it! You have a job to do."],
@@ -33157,12 +33157,12 @@
 	"tcoaarep2_4611":           ["\"The best and prettiest pile of trash you've ever seen.\""],
 	"tcoaarep2_4612":           ["\"Only the finest. A sight to behold and to be in its presence.\""],
 	"tcoaarep2_4613":           ["\"Yes yes, please more darling~.\""],
-	"tcoaarep2_4614":           ["\"Truly you are constructed of the most pristine and glistening refuse imaginable.\""],
+	"tcoaarep2_4614":           ["\"Truly you are constructed of the most","pristine and glistening refuse imaginable.\""],
 	"tcoaarep2_4615":           ["\"Oh?\""],
 	"tcoaarep2_4616":           ["\"Yesterday's rotten meat.\""],
 	"tcoaarep2_4617":           ["\"HEY!?!\""],
 	"tcoaarep2_4618":           ["\"HAHAHAHAHA\""],
-	"tcoaarep2_4619":           ["You deliver a swift but playful punch to your son's stomach"],
+	"tcoaarep2_4619":           ["You deliver a swift but playful","punch to your son's stomach"],
 	"tcoaarep2_4620":           ["\"Wiseass…..\""],
 	"tcoaarep2_4621":           ["\"Okay! Okay! I get it that was a bit much.\""],
 	"tcoaarep2_4622":           ["\"..... Thank you.\""],
@@ -33170,10 +33170,10 @@
 	"tcoaarep2_4624":           ["\"Just remember, you can always count on me.\""],
 	"tcoaarep2_4625":           ["\"Same mom. Same to you.\""],
 	"tcoaarep2_4626":           ["\"Good.\""],
-	"tcoaarep2_4627":           ["\"Now, I believe we have a mess to clean up. Care to help your old lady out?\""],
+	"tcoaarep2_4627":           ["\"Now, I believe we have a mess to clean","up. Care to help your old lady out?\""],
 	"tcoaarep2_4628":           ["\"Right! Can do!\""],
 	"tcoaarep2_4629":           ["You are Andrew!"],
-	"tcoaarep2_4630":           ["You and your mother untie your now soulless father and sorta-step-mom."],
+	"tcoaarep2_4630":           ["You and your mother untie your now","soulless father and sorta-step-mom."],
 	"tcoaarep2_4631":           ["Only to find out-"],
 	"tcoaarep2_4632":           ["\"What the fuck, they’re still alive?\""],
 	"tcoaarep2_4633":           ["\"How the hell?\""],
