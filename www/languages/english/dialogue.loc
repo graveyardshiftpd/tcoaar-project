@@ -1674,7 +1674,7 @@
         "newcantomato_11":  ["\"Don't lecture me, haven't I been through enough already?\""],
         "newcantomato_12":  ["\"I wasn't!\""], 
         "newcantomato_13":  ["\"Look, instead of wasting both of our time and",
-                               "energy on arguing, go put the Tomato Can back.\""],
+                               "energy on arguing, go put that can of tomatoes back.\""],
         "newcantomato_14":  ["\"I can stand to go a few more days without food anyway.\""],
         "newcantomato_15":  ["\"Well, we've made do for two, almost three months.\""],
         "newcantomato_16":  ["\"We'll just have to make do with",
@@ -20454,7 +20454,7 @@
 	"\"Odd thing to point out, but I can't rule it out.\""
         ],
         "Balcony_18": [ 
-	"\"Right..\""
+	"\"Right.\""
         ],
         "Balcony_19": [ 
 	"\".............\""
@@ -21317,8 +21317,8 @@
         "ReneeCooking_06": ["Akin to burning pork being","drowned out in spices."],
         "ReneeCooking_07": ["\"...................\""],
         "ReneeCooking_08": ["\"*Sigh*...\""],
-        "ReneeCooking_09": ["\"(Its just protein... its","just food.... nothing more.)\""],
-        "ReneeCooking_10": ["\"\\fs[26](Plus, i'm not in the mood of starving to death, and i certainly won't." 
+        "ReneeCooking_09": ["\"(It's just protein... it's","just food.... nothing more.)\""],
+        "ReneeCooking_10": ["\"\\fs[26](Plus, I'm not in the mood of starving to death, and i certainly won't." 
                                 ,"let my son be stupid enough to die over some bullshit moral excuse.)\\fs[28]\""],
         "ReneeCooking_11": ["\"(He is so young, and still has a lot to","live for... Hell, I've got a lot to live for!)\""],
         "ReneeCooking_12": ["\"........\""],
@@ -21358,7 +21358,7 @@
         "eatingneighbor_8": [ 
         	"You dig into the evening's dinner."
         ],
-        "new_eatingneighbor_07": ["\"(.......................this is.. Strong, to say the least...)\""],
+        "new_eatingneighbor_07": ["\"(.......................This is.. Strong, to say the least...)\""],
         "eatingneighbor_9": [ 
         	"\"...How is it?\""
         ],
@@ -21466,7 +21466,7 @@
         	"\"....I know it feels strange Andrew, it does for me too.\""
         ],
         "eatingneighbor_44": [ 
-        	"\"But look on the bright side: It cost an arm and a leg","to buy a good steak before all this started.\""
+        	"\"But look on the bright side; It cost an arm and a leg","to buy a good steak before all this started.\""
         ],
         "eatingneighbor_45": [ 
         	"\"Get it? An arm and a leg?\""
@@ -23102,7 +23102,7 @@
 	"This all happened because of that little hellspawn.)\""
         ],
         "Dream1_162": [ 
-        	"\"(Once she's out of our lives, things will get better...\""
+        	"\"(Once she's out of our lives, things will get better...)\""
         ],
         "Dream1_163": [ 
         	"\"(Just me, hubby, and my baby boy...)\""
@@ -31712,7 +31712,7 @@
 	"tcoaarep2_3259":           ["\"Sh-she’s making things up to get you on her side.\""],
 	"tcoaarep2_3260":           ["\"The signs are everywhere, I’m afraid, sweetheart.\""],
 	"tcoaarep2_3261":           ["\"You just have to know what to look for.\""],
-	"tcoaarep2_3262":           ["\"The playset in the shed outside, the baby blue coat of paint in the","locked room, the box from the same company I bought your crib from.\""],
+	"tcoaarep2_3262":           ["\"\\fs[27]The playset in the shed outside, the baby blue coat of paint in the\\fs[28]","\\fs[25]locked room, the box from the same company I bought your crib from.\\fs[28]\""],
 	"tcoaarep2_3263":           ["\"It..... it was supposed to be a surprise....\""],
 	"tcoaarep2_3264":           ["\"For what? For when we were dead?\""],
 	"tcoaarep2_3265":           ["\"Betty, darling....\""],
@@ -31877,7 +31877,7 @@
 	"tcoaarep2_3424":           ["\"They forced our hand, sweetheart.\""],
 	"tcoaarep2_3425":           ["\"Both of you. Garage. Now.\""],
 	"tcoaarep2_3426":           ["\"I won’t ask again. Andrew, you get the lights.\""],
-	"tcoaarep2_3427":           ["You direct Betty and Douglas to the center of the room, and Andrew","takes the initiative like a good son by guarding the garage door."],
+	"tcoaarep2_3427":           ["\\fs[26]You direct Betty and Douglas to the center of the room, and Andrew\\fs[28]","takes the initiative like a good son by guarding the garage door."],
 	"tcoaarep2_3428":           ["\"(Hm... This isn’t going to work, the second we start","drawing the circle, they’ll scream their lungs out.)\""],
 	"tcoaarep2_3429":           ["\"Andrew. Be a good boy and go","grab some rope or perhaps a cord...\""],
 	"tcoaarep2_3430":           ["\"And while you’re at it, find something we can tie them to.\""],
