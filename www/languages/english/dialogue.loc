@@ -26343,6 +26343,12 @@
 	"tcoaarep2_0596": [ 
         	"Oh wait--... You did!"
         ],
+	"tcoaarep2_0596a": [ 
+        	"A bottle of Bleach."
+        ],
+	"tcoaarep2_0596b": [ 
+        	"Bleach."
+        ],
 	"tcoaarep2_0597": [ 
         	"\"Are you dying for something better in this life? ",
 	"Is there nothing more for you? Will it ever get better?\""
@@ -26382,7 +26388,50 @@
 	"sleep there tonight, Mrs. Graves.\""
         ],
 	"tcoaarep2_0602": [ 
-        	"Inside the shed are gardening supplies such as shovels."
+        	"Inside the shed are a wide ",
+	"range of gardening supplies."
+        ],
+	"tcoaarep2_0602a": [ 
+        	"Just a stack of old plastic plant pots."
+        ],
+	"tcoaarep2_0602b": [ 
+        	"A few gardening tools hang off ",
+	"of the pegboard of this workbench."
+        ],
+	"tcoaarep2_0602c": [ 
+        	"An old lonely hedge trimmer rests on the workbench."
+        ],
+	"tcoaarep2_0602d": [ 
+        	"A pair of shovels are stored here."
+        ],
+	"tcoaarep2_0602e": [ 
+        	"Shovels."
+        ],
+	"tcoaarep2_0602f": [ 
+        	"\".... Cute.\""
+        ],
+	"tcoaarep2_0602g": [ 
+        	"\"Reminds me of you.\""
+        ],
+	"tcoaarep2_0602h": [ 
+        	"\"wh... MOM?\""
+        ],
+	"tcoaarep2_0602i": [ 
+        	"\"What? What did I say?\""
+        ],
+	"tcoaarep2_0602j": [ 
+        	"\"Why in the world would ",
+	"you compare me to a rake?\""
+        ],
+	"tcoaarep2_0602k": [ 
+        	"\".... I don't see what the problem is.\""
+        ],
+	"tcoaarep2_0602l": [ 
+        	"\"You're reliable and help ",
+	"me sweep away the trash.\""
+        ],
+	"tcoaarep2_0602m": [ 
+        	"\"...........\""
         ],
 	"tcoaarep2_0603": [ 
         	"The gate leads to the woods behind the house."
