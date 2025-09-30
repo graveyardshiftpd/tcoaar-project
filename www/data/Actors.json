@@ -12,5 +12,6 @@ null,
 {"id":10,"battlerName":"","characterIndex":7,"characterName":"actor7","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"TeenMom","nickname":"","note":"","profile":""},
 {"id":11,"battlerName":"","characterIndex":0,"characterName":"Actor5","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Douglas","nickname":"","note":"","profile":""},
 {"id":12,"battlerName":"","characterIndex":4,"characterName":"actor7","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Betty","nickname":"","note":"","profile":""},
-{"id":13,"battlerName":"","characterIndex":6,"characterName":"sprite_renne_with_jeans","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"MomVestless","nickname":"","note":"","profile":""}
+{"id":13,"battlerName":"","characterIndex":6,"characterName":"sprite_renne_with_jeans","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"MomVestless","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":7,"characterName":"!Other5","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Andrew&Renee","nickname":"","note":"","profile":""}
 ]
