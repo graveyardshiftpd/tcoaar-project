@@ -1,4 +1,6 @@
-{
+                                    {
+    "README_COMMENT_FOR_DEV_LINE_1": "Due to TCOAAL's encryption rules for parsing .loc files, this file MUST start with at LEAST N+4 spaces (N=16 as of 2025-10-03),",
+    "README_COMMENT_FOR_DEV_LINE_2": "where N = length(SIGNATURE). If you encounter a giant text block error about imageLUT, it's likely not enough whitespace.",
     "langName": "English",
     "langInfo": [
         "Kit9 Studio",
