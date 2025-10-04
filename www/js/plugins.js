@@ -23,7 +23,6 @@ var $plugins =
 {"name":"stbvorbis_stream_asm","status":false,"description":"","parameters":{}},
 {"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit Game","Show Exit":"true"}},
 {"name":"Yami_SkipTitle","status":false,"description":"Skip the title scene for testing purpose.","parameters":{}},
-{"name":"No Tomb Code","status":true,"description":"Remove some copyright claims from some peoples","parameters":{}},
 {"name":"FTKR_MessageWindowLines","status":true,"description":"v1.1.2 Plugin that changes the number of lines in the message window","parameters":{}},
 {"name":"HIME_PreTitleEvents","status":false,"description":"Build your own sequence of events that should occur before\r\nthe title screen begins","parameters":{"Pre-Title Map ID":"97","Use As Title":"false"}}
 ];
