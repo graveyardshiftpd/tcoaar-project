@@ -289,7 +289,7 @@
         "5BPrKpNv": "Enter.",
         "kyfMy4H9": "Nah...",
         "yjCwnV3j": "Yellow Plushie",
-        "nflVzdDG": "Purple Plushie",
+        "nflVzdDG": "Blue Plushie",
         "0pL6ptBx": "Pink Plushie",
         "c4L74Pd7": "Green Plushie",
         "tDZlYKZS": "Take it.",
@@ -300,7 +300,7 @@
         "8M9wNB6z": "Lilac Plushie",
         "b6vBtB3q": "Green Plushie",
         "FzdVWL5Z": "Yellow Plushie",
-        "zxbg8yN9": "Purple Plushie",
+        "zxbg8yN9": "Blue Plushie",
         "xQc9drVs": "Save Game.",
         "HTqzJwhM": "Pass.",
         "14TcRkbB": "BANG BANG, MOTHERFUCKER!!!",
@@ -17751,7 +17751,7 @@
             "Got Yellow Floozie!"
         ],
         "j1zpjS6R": [
-            "Purple Plushie won't budge."
+            "Blue Plushie won't budge."
         ],
         "yFbyyWxt": [
             "",
@@ -17761,7 +17761,7 @@
             "Soup is brewing, though it seems to be missing sustenance."
         ],
         "jcn02BWw": [
-            "Threw Homewrecker and Deadpeat Plushies into the furnace!"
+            "Threw Homewrecker and Deadbeat Plushies into the furnace!"
         ],
         "HyVx60Y1": [
             "Threw Deadbeat Plushie into the furnace!"
@@ -32946,7 +32946,7 @@
 	"tcoaarep2_4263":           ["\"Ah, yes, mother dearest, if it would behoove you, could","you please keep the boot knocking volume to a minimum?\""],
 	"tcoaarep2_4264":           ["\"Oh.... MY....God...\""],
 	"tcoaarep2_4265":           ["\"What?\""],
-	"tcoaarep2_4266":           ["\"DO YOU REALIZE HOW EMBARRASSING THAT IS TO HEAR!?!\""],
+	"tcoaarep2_4266":           ["\"DO YOU REALIZE HOW EMBARRASSING","THAT IS TO HEAR!?!\""],
 	"tcoaarep2_4267":           ["\"Especially from my own son?!\""],
 	"tcoaarep2_4268":           ["\"I’m kind of surprised you even care.\""],
 	"tcoaarep2_4269":           ["\"That apartment was small and the","walls were thin. What did you expect?\""],
