@@ -17776,7 +17776,7 @@
             "But more fuel is required."
         ],
         "NJPmcPc3": [
-            "Threw Deabeat Plushie into the furnace!"
+            "Threw Deadbeat Plushie into the furnace!"
         ],
         "swYP39dK": [
             "Threw Homewrecker Plushie into the furnace!"
@@ -31305,10 +31305,15 @@
 	"tcoaarep2_2659":           ["\"No way, no one besides us was there!\""],
 	"tcoaarep2_2660":           ["\"(Fuck, if she even thinks a little","bit about this, she’s right...)\""],
 	"tcoaarep2_2661":           ["\"Did we even look, wh-who knows if","any homeless people squat there???\""],
-	"tcoaarep2_2662":           ["\"Whatever, who cares what some bum says? \""],
+	"tcoaarep2_2661a":           ["\"Maybe they found her body and-\""],
+	"tcoaarep2_2661b":           ["\"Body??? Why would there be a body?\""],
+	"tcoaarep2_2661c":           ["\"Uh, well, what if she didn’t... get out...\""],
+	"tcoaarep2_2662":           ["\"Whatever, who cares what some bum says anyway? \""],
 	"tcoaarep2_2663":           ["\"'Oh I definitely didn’t murder her, these two kids did.'\""],
 	"tcoaarep2_2664":           ["\"Can you take this seriously for five minutes??\""],
 	"tcoaarep2_2665":           ["\"What for, so you can cry about this made-up stuff?\""],
+	"tcoaarep2_2665a":           ["\"Leyley, Nina’s dead and we locked her up and-\""],
+	"tcoaarep2_2665b":           ["\"Oh my goood, I get it. Who cares, she","was trying to take you from me anyway-\""],
 	"tcoaarep2_2666":           ["\"I think\\fi Mom\\fr\\c[1] got a call from the cops.\""],
 	"tcoaarep2_2667":           ["\"..............\""],
 	"tcoaarep2_2668":           ["That at least got her to stop drawing and focus."],
